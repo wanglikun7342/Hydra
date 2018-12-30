@@ -1,0 +1,14 @@
+apply plugin: 'com.novoda.bintray-release'
+publish {
+    def groupProjectID = 'com.eric.hydra'
+    def artifactProjectID = 'hydra'
+    def publishVersionID = '1.0.0'
+
+    userOrg = 'aloha'
+    repoName = 'hydra'
+    groupId = groupProjectID
+    artifactId = artifactProjectID
+    publishVersion = publishVersionID
+    desc = '{library description}'
+    website = '{github_url}'
+}
