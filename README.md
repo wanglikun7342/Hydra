@@ -1,4 +1,4 @@
-# Hydra ![Hydra](https://img.shields.io/github/license/wanglikun7342/Hydra.svg)![hydra](https://img.shields.io/bintray/v/aloha/hydra/hydra.svg)![pr welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+# Hydra ![Hydra](https://img.shields.io/github/license/wanglikun7342/Hydra.svg)![hydra](https://img.shields.io/badge/jcenter-1.0.0-blue.svg)![pr welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 > A lightweight Bluetooth scan/connect client for Android applications.
 
 ### 1. Dependency
